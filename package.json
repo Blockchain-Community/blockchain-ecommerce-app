@@ -1,7 +1,7 @@
 {
-  "name": "blockchain-ecommerce-app",
+  "name": "Blockchain-Ecommerce-Dapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "An ecommerce app using blockchain",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C000Ldude/Blockchain-Ecommerce-Dapp.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C000Ldude/Blockchain-Ecommerce-Dapp/issues"
+  },
+  "homepage": "https://github.com/C000Ldude/Blockchain-Ecommerce-Dapp#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^3.2.0"
   }

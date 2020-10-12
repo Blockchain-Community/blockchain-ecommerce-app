@@ -61,3 +61,5 @@ export default function Store({ paymentProcessor, dai }) {
         </div>
     )
 }
+
+// 1 hour 4 min
